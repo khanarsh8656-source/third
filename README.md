@@ -1,2 +1,2 @@
 # to-learn
-This is for Learn
+This is for Learn.
